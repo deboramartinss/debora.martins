@@ -1,4 +1,4 @@
-# 👋 olá, meu nome é Débora @toutvabienn
+# 👋 olá, meu nome é Débora @debora.martins
 # estou aqui para aprender programação 
 # meu e-mail é debora.martins.fil@gmail.com
 
